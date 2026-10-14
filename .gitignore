@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.DS_Store
+
+# Node/Local build artifacts (caso alguém teste localmente)
+node_modules/
+.npm/
+
+# Backups
+*.bak
