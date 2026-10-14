@@ -168,8 +168,6 @@ O arquivo `configs/aliases.zsh` é carregado automaticamente pelo Oh My Zsh e fo
 | Atalho | Comando Equivalente | Descrição |
 | :--- | :--- | :--- |
 | `cat` | `bat -p` | Exibe arquivos com syntax highlighting sem paginação |
-| `grep` | `rg` | Busca textual usando ripgrep |
-| `find` | `fd` | Busca de arquivos usando fd |
 | `ll` / `la` | `ls -lah` / `ls -A` | Listagem detalhada de arquivos com arquivos ocultos |
 | `gs` / `gaa` / `gc` | `git status` / `git add --all` / `git commit -m` | Atalhos rápidos de Git |
 | `gp` / `gpl` | `git push` / `git pull` | Envio e sincronização com repositório remoto |

@@ -7,8 +7,7 @@ alias cat="bat -p"
 alias ls="ls --color=auto"
 alias ll="ls -lah"
 alias la="ls -A"
-alias grep="rg"
-alias find="fd"
+
 
 # Git & GitHub
 alias gs="git status"
